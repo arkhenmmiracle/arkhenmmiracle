@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/blue-lion-banner.svg" width="100%" alt="Arkhen — Full-Stack Developer, blue lion theme" />
+<img src="./assets/chelsea-supporter-banner-v2.svg" width="100%" alt="Arkhen — Full-Stack Developer, blue lion theme" />
 
 <br />
 
