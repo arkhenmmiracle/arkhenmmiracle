@@ -121,7 +121,7 @@ Mobile driver application featuring attendance, pickup tasks, route tracking, OT
 
 <div align="center">
 
-<img src="./assets/tactics-board-v1.svg" width="100%" alt="Football tactics board showing Arkhen's tech stack formation" />
+<img src="./assets/tactics-board-v2.svg" width="100%" alt="Football tactics board showing Arkhen's tech stack formation" />
 
 </div>
 
