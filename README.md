@@ -121,12 +121,7 @@ Mobile driver application featuring attendance, pickup tasks, route tracking, OT
 
 <div align="center">
 
-| ⚡ Frontend | 🧩 Backend | 🗄️ Data | 🚀 Delivery |
-|:---:|:---:|:---:|:---:|
-| React | Node.js | PostgreSQL | GitHub |
-| Next.js | REST APIs | Neon | Vercel |
-| React Native | Firebase | Data Modeling | Cloudflare |
-| Tailwind CSS | Integration | Query Design | Deployment |
+<img src="./assets/tactics-board-v1.svg" width="100%" alt="Football tactics board showing Arkhen's tech stack formation" />
 
 </div>
 
