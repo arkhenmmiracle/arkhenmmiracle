@@ -88,8 +88,8 @@ A mobile driver application for laundry pickup operations featuring attendance, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arkhenmmiracle&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Arkhen's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkhenmmiracle&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Arkhen's most used languages" />
+[![GitHub followers](https://img.shields.io/github/followers/arkhenmmiracle?style=for-the-badge&logo=github&label=Followers&color=6366F1)](https://github.com/arkhenmmiracle?tab=followers)
+[![Public repositories](https://img.shields.io/badge/Public_Repositories-6-6366F1?style=for-the-badge&logo=github)](https://github.com/arkhenmmiracle?tab=repositories)
 
 </div>
 
